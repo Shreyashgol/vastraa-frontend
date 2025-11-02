@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <h3 className="text-2xl font-display font-bold text-primary-500 mb-4">
-              Vastra
+              Vastraa
             </h3>
             <p className="text-gray-300 mb-6">
               Premium custom t-shirt printing service. High-quality prints, fast delivery, and endless design possibilities.
@@ -63,7 +63,7 @@ export default function Footer() {
               </li>
               <li>
                 <strong>Email:</strong><br />
-                <a href="mailto:support@vastra.com" className="hover:text-primary-500 transition-colors">support@vastra.com</a>
+                <a href="mailto:support@vastraa.com" className="hover:text-primary-500 transition-colors">support@vastraa.com</a>
               </li>
               <li>
                 <strong>Address:</strong><br />
@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-secondary-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {new Date().getFullYear()} Vastra. All rights reserved.
+              © {new Date().getFullYear()} Vastraa. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <Link href="/terms" className="hover:text-primary-500 transition-colors">Terms & Conditions</Link>

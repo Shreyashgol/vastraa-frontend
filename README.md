@@ -1,4 +1,4 @@
-# Vastra - Custom T-Shirt Printing E-commerce
+# Vastraa - Custom T-Shirt Printing E-commerce
 
 A modern, full-featured e-commerce website for custom t-shirt printing built with Next.js 14, JavaScript, and Tailwind CSS.
 

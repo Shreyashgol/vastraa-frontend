@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Custom Design - Vastra",
+  title: "Custom Design - Vastraa",
   description: "Create your own custom t-shirt design",
 };
 

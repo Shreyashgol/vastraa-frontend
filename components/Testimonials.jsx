@@ -10,7 +10,7 @@ export default function Testimonials() {
       role: "Event Organizer",
       image: "https://i.pravatar.cc/150?img=12",
       rating: 5,
-      text: "Ordered 50 custom t-shirts for our college fest. The quality was outstanding and delivery was on time. Highly recommend Vastra!",
+      text: "Ordered 50 custom t-shirts for our college fest. The quality was outstanding and delivery was on time. Highly recommend Vastraa!",
     },
     {
       name: "Priya Patel",

@@ -24,7 +24,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="text-3xl font-display font-bold text-primary-600">
-              Vastra
+              Vastraa
             </div>
           </Link>
 

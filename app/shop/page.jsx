@@ -2,7 +2,7 @@ import { products } from "../../data/products";
 import ProductCard from "../../components/ProductCard";
 
 export const metadata = {
-  title: "Shop - Vastra",
+  title: "Shop - Vastraa",
   description: "Browse our collection of premium t-shirts for custom printing",
 };
 

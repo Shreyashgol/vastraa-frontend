@@ -49,7 +49,7 @@ export const useCartStore = create(
       },
     }),
     {
-      name: 'vastra-cart-storage',
+      name: 'vastraa-cart-storage',
     }
   )
 );

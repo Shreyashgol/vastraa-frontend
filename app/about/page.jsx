@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "About Us - Vastra",
-  description: "Learn about Vastra's mission to provide premium custom t-shirt printing services",
+  title: "About Us - Vastraa",
+  description: "Learn about Vastraa's mission to provide premium custom t-shirt printing services",
 };
 
 export default function AboutPage() {
@@ -8,7 +8,7 @@ export default function AboutPage() {
     <div className="min-h-screen bg-gray-50">
       <div className="bg-gradient-to-r from-primary-600 to-primary-700 text-white py-16">
         <div className="container-custom text-center">
-          <h1 className="text-4xl md:text-5xl font-display font-bold mb-4">About Vastra</h1>
+          <h1 className="text-4xl md:text-5xl font-display font-bold mb-4">About Vastraa</h1>
           <p className="text-lg text-primary-100 max-w-2xl mx-auto">
             Your trusted partner for premium custom t-shirt printing
           </p>
@@ -20,7 +20,7 @@ export default function AboutPage() {
           <section>
             <h2 className="text-3xl font-bold text-secondary-900 mb-4">Our Story</h2>
             <p className="text-secondary-700 leading-relaxed mb-4">
-              Founded in 2024, Vastra began with a simple mission: to make high-quality custom t-shirt
+              Founded in 2024, Vastraa began with a simple mission: to make high-quality custom t-shirt
               printing accessible to everyone. We believe that everyone should have the opportunity to
               express their creativity through unique, personalized apparel.
             </p>
@@ -40,7 +40,7 @@ export default function AboutPage() {
           </section>
 
           <section>
-            <h2 className="text-3xl font-bold text-secondary-900 mb-6">Why Choose Vastra?</h2>
+            <h2 className="text-3xl font-bold text-secondary-900 mb-6">Why Choose Vastraa?</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white p-6 rounded-xl shadow-md">
                 <h3 className="text-xl font-semibold text-secondary-900 mb-2">Premium Quality</h3>

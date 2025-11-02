@@ -45,7 +45,7 @@ export default function ContactPage() {
               <FiMail className="w-8 h-8 text-primary-600" />
             </div>
             <h3 className="text-xl font-semibold text-secondary-900 mb-2">Email</h3>
-            <p className="text-secondary-600">support@vastra.com</p>
+            <p className="text-secondary-600">support@vastraa.com</p>
             <p className="text-sm text-secondary-500 mt-1">We reply within 24 hours</p>
           </div>
 

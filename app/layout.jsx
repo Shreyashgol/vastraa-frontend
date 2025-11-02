@@ -19,12 +19,12 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Vastra - Custom T-Shirt Printing | Premium Quality Apparel",
-  description: "Design and order custom printed t-shirts with Vastra. High-quality printing, fast delivery, and endless design possibilities for your unique style.",
-  keywords: "custom t-shirts, t-shirt printing, personalized apparel, custom clothing, Vastra",
-  authors: [{ name: "Vastra Team" }],
+  title: "Vastraa - Custom T-Shirt Printing | Premium Quality Apparel",
+  description: "Design and order custom printed t-shirts with Vastraa. High-quality printing, fast delivery, and endless design possibilities for your unique style.",
+  keywords: "custom t-shirts, t-shirt printing, personalized apparel, custom clothing, Vastraa",
+  authors: [{ name: "Vastraa Team" }],
   openGraph: {
-    title: "Vastra - Custom T-Shirt Printing",
+    title: "Vastraa - Custom T-Shirt Printing",
     description: "Premium quality custom t-shirt printing service",
     type: "website",
   },
